@@ -1,0 +1,4 @@
+﻿  Particles.cpp
+c:\users\jean\documents\opengl\particlesystem\particlesystem\particles.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jean\documents\opengl\particlesystem\particlesystem\particles.cpp(106): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ParticleSystem.vcxproj -> C:\Users\Jean\Documents\OpenGL\ParticleSystem\x64\Debug\ParticleSystem.exe

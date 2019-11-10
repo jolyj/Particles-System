@@ -1,0 +1,11 @@
+﻿  Particles.cpp
+c:\users\jean\documents\opengl\2dparticles\particlesystem\particles.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jean\documents\opengl\2dparticles\particlesystem\particles.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\jean\documents\opengl\2dparticles\particlesystem\particles.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating code
+  6 of 266 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ParticleSystem.vcxproj -> C:\Users\Jean\Documents\OpenGL\2DParticles\x64\Release\ParticleSystem.exe
